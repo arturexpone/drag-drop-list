@@ -2,12 +2,12 @@ const draggable_list = document.getElementById('draggable-list');
 const check = document.getElementById('check');
 
 const richestPeople = [
-  'Jeff Bezos',
-  'Bill Gates',
-  'Warren Buffett',
-  'Bernard Arnault',
-  'Mark Zuckerberg',
-  'Larry Page'
+  'Подтянуться 25 раз не покраснев',
+  'Посетить силиконовую долину до <s>30ти летия</s> старости',
+  'Принять участие в президентских выборах и не ошибиться',
+  'Купить заднеприводного друга (BMW)',
+  'Попасть на работу в качестве frontend developer',
+  'Прочесть до конца "Грокаем алгоритмы"'
 ];
 
 const listItems = [];
